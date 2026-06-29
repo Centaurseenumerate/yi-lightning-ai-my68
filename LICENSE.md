@@ -1,4 +1,4 @@
-# 
+# Nativo Yi-Lightning plugins. Com web scraping e treinamento de modelos personalizados — otimizado para máximo desempenho e eficiência.
 
 
 
